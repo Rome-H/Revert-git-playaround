@@ -4,3 +4,5 @@ function first() {
 }
 
 first();
+
+var bossAssistant = 'Boss has an assistant!';
