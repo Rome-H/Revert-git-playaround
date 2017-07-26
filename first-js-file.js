@@ -5,4 +5,5 @@ function first() {
 
 first();
 
-var bossAssistant = 'Boss has an assistant!';
+var newGreatProject = 'Awesome project launched - congrats!!!';
+var asssitantMissing = 'Yo, where is the assistant?';
