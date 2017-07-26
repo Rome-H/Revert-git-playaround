@@ -4,13 +4,3 @@ function first() {
 }
 
 first();
-
-function hereIsAssistant() {
-  console.log('Hey, I am back!');
-}
-
-var newGreatProject = 'Awesome project launched - congrats!!!';
-var asssitantMissing = 'Yo, where is the assistant?';
-
-
-hereIsAssistant();
